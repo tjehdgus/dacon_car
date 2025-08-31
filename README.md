@@ -2,6 +2,7 @@
 # 🚗 차량 분류 모델 프로젝트
 **DACON HAI! – Hecho AI Challenge (2025.06)**
 서동현 · 유동현 · 김준희
+
 <img src="https://github.com/user-attachments/assets/1de54dfb-b7fb-4027-9b9d-f06606b54245" alt="딥러닝발표자료" width="500">\
 
 ---
